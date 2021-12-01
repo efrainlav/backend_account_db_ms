@@ -1,2 +1,2 @@
-# backend_account_db_ms
-Pruebas SprintBoot - Manejo Transacciones y Cuenta
+# backend_account_ms
+Example of a MS using SprintBoot and Java for handle the transactions and accounts
